@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.8.0_101
+Created-By: 1.8.0_101 (Oracle Corporation)
+Main-Class: com.okta.javakafka.KafkaJavaApplication
